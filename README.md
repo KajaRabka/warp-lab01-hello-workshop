@@ -9,3 +9,5 @@ Autor: Student - Warsztat Programisty
 \`\`\`bash
 dotnet run
 \`\`\`
+
+Test automatycznego uruchamiania GitHub Actions po pushu.
