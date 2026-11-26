@@ -10,7 +10,6 @@ on:
       - main
 
 env:
-env:
   DOTNET_VERSION: 10.0.x
   PROJECT_PATH: ./HelloWorkshop.csproj
 
